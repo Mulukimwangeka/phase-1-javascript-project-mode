@@ -1,4 +1,4 @@
-Instructions
+Instructions for the simple calender code
 
     • The language used
       HTML, CSS,Javascript 
