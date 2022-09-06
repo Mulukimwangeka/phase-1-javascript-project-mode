@@ -25,6 +25,6 @@ Instructions
       
     • The output is produced in Chrome browser after being launch in your console 
 
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/Ruthcalender.png)
 
 
