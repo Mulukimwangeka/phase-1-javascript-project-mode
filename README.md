@@ -25,8 +25,7 @@ Instructions
       
     • The output is produced in Chrome browser after being launch in your console 
 
-      The code should put out the following
-
-      http://127.0.0.1:5501/
+      The code should put out the following 
+      ![Optional Text](../home/muluki/Pictures/Ruthcalender.png)
 
 
