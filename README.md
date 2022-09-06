@@ -26,9 +26,9 @@ Instructions
     • The output is produced in Chrome browser after being launch in your console 
 
       The code should put out the following 
+    ![Ruthcalender](https://user-images.githubusercontent.com/110085833/188610995-2fa615e1-5555-4bcc-b1bc-19ce7eb5b6ed.png)
+
     
-    
-      ![Ruthcalender](https://user-images.githubusercontent.com/110085833/188610788-273bef0f-8e5c-46eb-adc3-495f4611e465.png)
 
   
      
