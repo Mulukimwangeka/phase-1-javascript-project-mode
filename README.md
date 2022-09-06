@@ -27,8 +27,10 @@ Instructions
 
       The code should put out the following 
     
-      
+    
+      ![Ruthcalender](https://user-images.githubusercontent.com/110085833/188610788-273bef0f-8e5c-46eb-adc3-495f4611e465.png)
+
   
-      ![Ruthcalender](https://user-images.githubusercontent.com/110085833/188610044-07cdf644-596b-4c4f-9188-c338acf8a2c4.png)
+     
 
 
