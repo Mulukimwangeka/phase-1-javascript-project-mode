@@ -25,11 +25,7 @@ Instructions
       
     • The output is produced in Chrome browser after being launch in your console 
 
-      The code should put out the following 
-     
-     ![Ruthcalender](https://user-images.githubusercontent.com/110085833/188611523-e86ad5ab-62c6-4376-b326-4e5126f19d97.png)
-
-
+      
 
     
 
