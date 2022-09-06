@@ -1,0 +1,22 @@
+{
+  "name": "phase-1-javascript-project-mode",
+  "version": "1.0.0",
+  "description": "Instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mulukimwangeka/phase-1-javascript-project-mode.git"
+  },
+  "author": "Ruth Mwangeka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mulukimwangeka/phase-1-javascript-project-mode/issues"
+  },
+  "homepage": "https://github.com/Mulukimwangeka/phase-1-javascript-project-mode#readme",
+  "dependencies": {
+    "googleapis": "^107.0.0"
+  }
+}
