@@ -26,6 +26,7 @@ Instructions
     • The output is produced in Chrome browser after being launch in your console 
 
       The code should put out the following 
-      ![Optional Text](../home/muluki/Pictures/Ruthcalender.png)
+      
+      ![Optional Text](/home/muluki/Pictures/Ruthcalender.png)
 
 
